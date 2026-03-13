@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "生きがい",
+  "base_artist": "SUPER BEAVER",
+  "createdAt": "2026-03-13T15:44:34.812826Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "生きがい",
+      "artist": "Kohmi Hirose",
+      "has_synced": false,
+      "path": "select/01_生きがい_Kohmi_Hirose.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "生きがい",
+      "artist": "GLAY",
+      "has_synced": false,
+      "path": "select/02_生きがい_GLAY.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "生きがい",
+      "artist": "Hirose Kohmi",
+      "has_synced": false,
+      "path": "select/03_生きがい_Hirose_Kohmi.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "生きがい",
+      "artist": "由紀さおり",
+      "has_synced": false,
+      "path": "select/04_生きがい_由紀さおり.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "生きがい",
+      "artist": "SUPER BEAVER",
+      "has_synced": true,
+      "path": "select/05_生きがい_SUPER_BEAVER.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "生きがい",
+      "artist": "SUPER BEAVER",
+      "has_synced": false,
+      "path": "select/pl_01_生きがい_SUPER_BEAVER.txt"
+    }
+  ]
+}
